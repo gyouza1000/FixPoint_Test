@@ -1,0 +1,6 @@
+入力ファイル：
+log.log
+
+出力ファイル：
+output_quetion1.csv
+

@@ -1,0 +1,8 @@
+入力ファイル：
+log.log
+
+出力ファイル：
+output_quetion2.csv
+
+連続タイムアウト数N：
+3
